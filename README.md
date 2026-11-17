@@ -17,6 +17,7 @@ Java · Programación orientada a objetos · Colecciones · JDBC · MySQL · SQL
 
 | Proyecto | Qué es | Tecnologías |
 | --- | --- | --- |
+| [La Estancia](https://github.com/luciomastro30-droid/LaEstancia-Progra2) | Simulador de gestión rural en consola, hecho en equipo: arquitectura en capas, 9 tablas MySQL, transacciones con rollback y eventos de folklore. Más de 75 commits míos | Java, JDBC, MySQL |
 | [agenda-estudiantil-java](https://github.com/MaxGarcia222/agenda-estudiantil-java) | App de consola hecha en equipo: usuarios con roles, notas, tareas y calendario, con persistencia en JSON | Java, POO, JSON |
 | [sistema-empleados-java](https://github.com/MaxGarcia222/sistema-empleados-java) | Gestión de empleados y cálculo de sueldos con herencia y polimorfismo | Java, POO |
 
