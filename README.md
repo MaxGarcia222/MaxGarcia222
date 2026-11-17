@@ -22,5 +22,5 @@ Java · Programación orientada a objetos · Colecciones · JDBC · MySQL · SQL
 
 ## Contacto
 
-- LinkedIn:[max-manuel-garcia](https://www.linkedin.com/in/max-manuel-garcia/)
-- Email: mabsiaoficial@gmail.com
+- LinkedIn: [max-manuel-garcia](https://www.linkedin.com/in/max-manuel-garcia/)
+- Email: garciamax.dev@gmail.com
